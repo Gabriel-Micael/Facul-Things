@@ -11,6 +11,8 @@
 #include <algorithm>
 #include <bits/stdc++.h>
 
+\\ AIIIIIIIIIIIIIIIIIII , ME DA UM CHHICLETEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+
 using namespace std;
 
 struct Veiculo{
